@@ -1,6 +1,6 @@
 ---
 title: Programmation Orientée Objet
-author: 
+author: il est **nul** cet auteur !
 - "[Sébastien Boisgérault](mailto:Sebastien.Boisgerault@minesparis.psl.eu), MINES Paris, Université PSL"
 license: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 date: auto
